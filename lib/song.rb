@@ -46,5 +46,6 @@ class Song
         genres[genre] = 1
       end
     end
+    genres
   end
 end
