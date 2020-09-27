@@ -34,6 +34,6 @@ class Song
         artists << artist
       end
     end
-    artist
+    artists
   end
 end
